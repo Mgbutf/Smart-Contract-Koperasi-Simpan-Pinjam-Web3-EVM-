@@ -14,4 +14,4 @@ Sistem smart contract terdesentralisasi untuk manajemen tata kelola keuangan kop
 ## 🛠️ Tech Stack
 
 - **Bahasa Pemrograman**: Solidity ^0.8.19
-- **Lingkungan Pengembangan**: EVM Compatible (Siap di-deploy ke Holesky Testnet)
+- **Lingkungan Pengembangan**: EVM Compatible (Siap di-deploy ke Holesky Testnet) !!
